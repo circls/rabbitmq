@@ -1,5 +1,5 @@
-Role Name
-=========
+RabbitMQ
+========
 
 Kazoo Ansible role for RabbitMQ
 
