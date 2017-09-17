@@ -18,7 +18,8 @@ User Variables
 Dependencies
 ------------
 
-None
+Roles
+- kazoo-ansible.common
 
 Example Playbook
 ----------------
